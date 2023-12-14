@@ -15,7 +15,7 @@ $pkg install git
 
 $git clone https://github.com/aw-coode/TOOLSINSTALLERv
 
-$cd TOOLSINSTALLERv3 
+$cd TOOLSINSTALLERv 
 
 $chmod +x TUANB4DUT.sh 
 
