@@ -2,7 +2,9 @@
 
 TOOLSINSTALLERv
 300+ TOOLS IN 1 SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS INI
+## Installation On Termux
 
+```bash
 $apt update && apt upgrade 
 
 $pkg install python python2 vim figlet curl 
@@ -20,6 +22,7 @@ $cd TOOLSINSTALLERv
 $chmod +x AWCODE.sh 
 
 $sh AWCODE.sh
+```
 
 TUAN B4DUT INDONESIAN TERMUX ASSOCIATION
 
