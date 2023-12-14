@@ -24,7 +24,7 @@ $chmod +x AWCODE.sh
 $sh AWCODE.sh
 ```
 
-TUAN B4DUT INDONESIAN TERMUX ASSOCIATION
+All TERMUX tools with one click 
 
 ## Follow the news channel on Telegram💻
  <p align="center"><a href="https://t.me/AWCODE3"> 
