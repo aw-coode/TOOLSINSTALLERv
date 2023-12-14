@@ -17,9 +17,9 @@ $git clone https://github.com/aw-coode/TOOLSINSTALLERv
 
 $cd TOOLSINSTALLERv 
 
-$chmod +x TUANB4DUT.sh 
+$chmod +x AWCODE.sh 
 
-$sh TUANB4DUT.sh
+$sh AWCODE.sh
 
 TUAN B4DUT INDONESIAN TERMUX ASSOCIATION
 
