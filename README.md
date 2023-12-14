@@ -15,7 +15,8 @@ $pip2 install lolcat
 
 $pkg install git 
 
-$git clone https://github.com/aw-coode/TOOLSINSTALLERv
+$git clone
+ https://github.com/aw-coode/TOOLSINSTALLERv
 
 $cd TOOLSINSTALLERv 
 
